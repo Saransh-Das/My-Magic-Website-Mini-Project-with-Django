@@ -3,7 +3,7 @@ This is a mini-project prepared by me (Saransh Das) in my training period under 
 
 __________________________________________________________________________________________________________________________________________________________________________________
 TRD Document for Reference :-
-Note:- Original TRD Doc is also Pushed along with the other files in the repo
+Note:- Original TRD Doc is already submitted on Google classroom
 ________________________________________________________________________________________________________________________________________________________________________________________
 Technical Requirement Document for  Magic Website for business
 
