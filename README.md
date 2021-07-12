@@ -90,6 +90,15 @@ Therefore the Target market is Small Scale Businesses all over the Country who n
 functionality that the user can get used to from DAY 1 for just getting started with the online sector of his/her Business . 
 
 
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Steps I used to activate my Virtual environment and running server:-
+commands:-
+- pip install poetry
+- poetry init
+- poetry shell
+- poetry add django
+- python manage.py runserver
 
 
 
